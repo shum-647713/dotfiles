@@ -1,0 +1,9 @@
+#! xrdb -override
+
+*faceName: Source Code Pro
+*faceSize: 12
+
+*selectToClipboard: true
+
+*background: black
+*foreground: lightgray
