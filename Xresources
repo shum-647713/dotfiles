@@ -1,9 +1,9 @@
-#! xrdb -override
-
 *faceName: Source Code Pro
 *faceSize: 12
 
 *selectToClipboard: true
+*backarrowKey: false
+*ttyModes: erase ^?
 
 *background: black
 *foreground: lightgray
